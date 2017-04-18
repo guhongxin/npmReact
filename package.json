@@ -1,0 +1,15 @@
+{
+  "name": "reacttest",
+  "version": "1.0.0",
+  "description": "react测试",
+  "main": "index.js",
+  "scripts": {
+    "start" : "webpack-dev-server --no-inline"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
