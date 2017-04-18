@@ -49,3 +49,6 @@
 		}
 	}
 	module.exports=config;
+
+	注意:
+	在组件中,采用ES6语法,如果采用handleClick:function(e)报错,并且不能用,号
