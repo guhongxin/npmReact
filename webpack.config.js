@@ -1,10 +1,10 @@
-var Path = require("path")
+var Path = require("path");
 var config={
 	entry:'./main.js',
 
 	output:{
-		
-        filename: 'index.js',
+		path:__dirname+Path.resolve('./'),
+        filename: 'index.js'
 	},
 
 	devServer:{

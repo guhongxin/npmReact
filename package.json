@@ -4,7 +4,7 @@
   "description": "react测试",
   "main": "index.js",
   "scripts": {
-    "start" : "webpack-dev-server --no-inline"
+    "start" : "webpack-dev-server --no-inline"   //"start" : "webpack-dev-server --hot"启动报错
   },
   "author": "",
   "license": "ISC",
